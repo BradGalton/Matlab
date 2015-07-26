@@ -1,0 +1,21 @@
+function output = sparse_array_out(A,filename)
+fid = fopen(filename,'w+');
+
+output = true;
+if fid < 0
+    output = false;
+    return;
+end
+
+dims = size(A);
+nz = nnz(A);
+fwrite(fid,[dims nz],'uint32');
+
+[I J V] = find(A);
+for i = 1:length(I)
+    fwrite(fid,I(i),'uint32');
+    fwrite(fid,J(i),'uint32');
+    fwrite(fid,V(i),'double');
+end
+
+fclose(fid);
