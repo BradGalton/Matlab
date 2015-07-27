@@ -1,12 +1,10 @@
-# Matlab-Code
+# Matlab Projects
 
-Projects:
+1) MaxSubSum: Calculates the sum and locates the coordinates of elements for the maximum-valued contiguous submatrix.
 
-1) MaxSubSum - calculates maximum sum and locates coordinates of elements for any contiguous submatrix.
+2) Saddle: Locates saddle points within a matrix.
 
-2) Saddle - locates saddle points within a matrix.
-
-3) SparseArray - efficient output of a sparse array elements to a binary file.
+3) SparseArray: Efficient output of a sparse array's elements to a binary file.
 
 Machine Learning: 
 
