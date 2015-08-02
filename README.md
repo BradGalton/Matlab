@@ -8,4 +8,5 @@
 
 Machine Learning: 
 
-- Exercises from Professor Andrew Ng's class at Stanford
+Scripts adapted from Machine Learning course labs at Stanford. Problems and datsets provided by instructor. Self-generated code blocks begin with # TODO:
+
