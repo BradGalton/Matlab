@@ -8,5 +8,5 @@
 
 Machine Learning: 
 
-Scripts adapted from Machine Learning course labs at Stanford. Problems and datsets provided by instructor. Self-generated code blocks begin with # TODO:
+Scripts adapted from Machine Learning course labs at Stanford. Problem formulation and datsets provided by instructor. All functions self-generated but may use dependencies not provided here.
 
