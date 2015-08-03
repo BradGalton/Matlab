@@ -8,5 +8,21 @@
 
 Machine Learning: 
 
-Scripts adapted from Machine Learning course labs at Stanford. Problem formulation and datsets provided by instructor. All functions self-generated but may use dependencies not provided here.
+Scripts adapted from Machine Learning course labs at Stanford. Problem formulation and datsets provided by instructor. All functions self-generated but may use dependencies not provided here. 
+
+Unsupervised Learning:
+1) K-Means Clustering:
+
+2) PCA:
+
+Supervised Learning:
+
+3) Neural Networks:
+
+4) Logistic Regression:
+
+5) Linear Regression:
+
+
+
 
