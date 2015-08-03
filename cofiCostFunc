@@ -48,7 +48,6 @@ X_grad = Err * Theta + lambda .* X;
 Theta_grad = Err' * X + lambda .* Theta;
  
 
-
 % =============================================================
 
 grad = [X_grad(:); Theta_grad(:)];
