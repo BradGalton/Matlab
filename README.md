@@ -6,6 +6,8 @@
 
 3) SparseArray: Efficient output of a sparse array's elements to a binary file.
 
-- Machine Learning: Regularized Linear Regression/Regularized Logistic Regression/Neural Networks/SVMs/K-Means Clustering/PCA/Collaborative Filtering
+# Machine Learning
+- Supervised: Regularized Linear Regression/Regularized Logistic Regression/Neural Networks/SVMs
+- Unsupervised and Other: K-Means Clustering/Outlier Detection/PCA/Collaborative Filtering
 
 Scripts adapted from Machine Learning course labs at Stanford. Problem formulation and datsets provided by instructor. All functions self-generated but may use dependencies not provided here. 
