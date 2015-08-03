@@ -6,23 +6,6 @@
 
 3) SparseArray: Efficient output of a sparse array's elements to a binary file.
 
-Machine Learning: 
+- Machine Learning: Regularized Linear Regression/Regularized Logistic Regression/Neural Networks/K-Means Clustering/PCA/Collaborative Filtering
 
 Scripts adapted from Machine Learning course labs at Stanford. Problem formulation and datsets provided by instructor. All functions self-generated but may use dependencies not provided here. 
-
-Unsupervised Learning:
-1) K-Means Clustering:
-
-2) PCA:
-
-Supervised Learning:
-
-3) Neural Networks:
-
-4) Logistic Regression:
-
-5) Linear Regression:
-
-
-
-
